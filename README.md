@@ -1,8 +1,10 @@
 2026-09-22
 
-<!-- notify 1/2 · bzKQ41uh -->
-## Notification 1/2
-Round: Round 1
-To: okelly1@msn.com, deborahbelica@aol.com
-At: 2026-09-22 14:08:18
-Id: bzKQ41uh
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: darryl_erby@hotmail.com, synpainter1@aol.com
+At: 2026-09-22 14:08:26
+Id: Lc8fBlaX
